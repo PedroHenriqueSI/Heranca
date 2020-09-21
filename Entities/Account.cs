@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Herança.Entities
 {
-    class Account
+    class Account 
     {
         public int Number { get; private set; }
         public string Holder { get; private set; }

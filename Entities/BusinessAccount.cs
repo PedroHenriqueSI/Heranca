@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Herança.Entities
 {
-    class BusinessAccount : Account
+    class BusinessAccount :  Account
     {
         public double LoanLimit { get; set; }
 
